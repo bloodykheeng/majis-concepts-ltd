@@ -22,7 +22,7 @@ const images = [
         caption: "Paving Compounds",
     },
     {
-        src: "https://images.unsplash.com/photo-1590725175655-94c6cf2631b4?auto=format&fit=max&w=900&q=85",
+        src: "https://plus.unsplash.com/premium_photo-1676154517862-3d39720f63f5?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=max&w=900&q=85",
         caption: "Half Bricks & Blocks",
     },
     {

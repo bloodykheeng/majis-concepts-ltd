@@ -7,37 +7,37 @@ const products = [
     {
         title: "Concrete Blocks",
         desc: "High-strength standard and hollow concrete blocks for walls, foundations, and structural applications. Built for durability and load bearing.",
-        img: "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=700&q=80",
+        img: "https://images.unsplash.com/photo-1566041994317-19af5bfd3ade?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=700&q=80",
         tag: "Structural",
     },
     {
         title: "Pavers",
         desc: "Interlocking concrete pavers in various shapes and colours for driveways, pathways, plazas, and landscaping projects.",
-        img: "https://images.unsplash.com/photo-1518709414768-a88981a4515d?w=700&q=80",
+        img: "https://images.unsplash.com/photo-1681241942875-7a1ea65899b4?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=700&q=80",
         tag: "Landscaping",
     },
     {
         title: "Slabs",
         desc: "Precast concrete slabs for flooring, roofing, and paving. Precision-cast for consistent thickness and exceptional strength.",
-        img: "https://images.unsplash.com/photo-1565182999561-18d7dc61c393?w=700&q=80",
+        img: "https://images.unsplash.com/photo-1718073869252-3b78770dc972?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=700&q=80",
         tag: "Flooring",
     },
     {
         title: "Culverts",
         desc: "Reinforced concrete culverts for drainage and water management systems. Engineered for maximum flow and structural integrity.",
-        img: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=700&q=80",
+        img: "https://images.unsplash.com/photo-1663687059468-09c6608d2dd3?q=80&w=1148&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=700&q=80",
         tag: "Drainage",
     },
     {
         title: "Poles",
         desc: "Concrete utility and fencing poles manufactured to precise specifications, resistant to weather and heavy loads.",
-        img: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=700&q=80",
+        img: "https://images.unsplash.com/photo-1653749576891-2b47ade3acef?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=700&q=80",
         tag: "Utility",
     },
     {
         title: "Stones & Stone Dust",
         desc: "Natural aggregate stones and fine stone dust for concrete mixing, foundations, backfilling, and road construction.",
-        img: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=700&q=80",
+        img: "https://images.unsplash.com/photo-1686358244601-f6e65f67d4c6?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=700&q=80",
         tag: "Aggregate",
     },
 ];
